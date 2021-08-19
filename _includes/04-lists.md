@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Oldboy
+* Platoon
+* Little Miss Sunshine
